@@ -37,7 +37,7 @@ def nacti_data():
 #---------- MAIN: ----------
 #labda_test()
 #print(soucin2([5,6,54]))
-#pis_uzivatele("franta", False)
-#pis_uzivatele("Pepa")
+pis_uzivatele("franta", False)
+pis_uzivatele("Pepa")
 
 nacti_data()
